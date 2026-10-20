@@ -1,7 +1,4 @@
 <img src="img/refract_banner.png" alt="Refract" width="100%">
-
-[![Support Refract on Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20Refract-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/mixid_mbb)
-
 Refract runs Meta Quest (Android OpenXR) games on a Windows or Linux PC, in a PC VR headset or in a
 window on the screen. Games run in one of three ways:
 
@@ -10,16 +7,6 @@ window on the screen. Games run in one of three ways:
 - **Waydroid** (Linux): a container that shares the PC's kernel and GPU.
 
 > **Status:** experimental. Not every game works yet.
-
-## Support Refract
-
-I'm a student, and I build Refract in my spare time. If you'd like to see more Quest games running
-on PC, a coffee on Ko-fi helps a lot.
-
-[![Buy me a coffee on Ko-fi](https://img.shields.io/badge/Ko--fi-Buy%20me%20a%20coffee-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/mixid_mbb)
-
-Not in a position to donate? Starring the repo, trying Refract with your games and reporting what
-breaks helps too.
 
 ## Requirements
 
